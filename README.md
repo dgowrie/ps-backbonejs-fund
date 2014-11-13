@@ -1,0 +1,1 @@
+Just a sandbox for playing with Backbone.js
